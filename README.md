@@ -1,7 +1,7 @@
 # Luca Menicagli 
 
 ### MSc in Economics Candidate at Nova School of Business and Economics
-**Specializing in Quantitative Finance, Energy Equity Research, and LNG Arbitrage Optimization**
+**Specializing in Economics, Quantitative Finance, Energy Equity Research, and LNG Arbitrage Optimization**
 
 ---
 
