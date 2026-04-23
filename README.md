@@ -15,6 +15,7 @@ MSc in Economics student at Nova SBE (Academic Merit Scholarship recipient), wit
 ---
 
 ## Technical Stack & Competencies
+- **Investment Strategy & Macro Research:** Global Macro Analysis, Energy Transition Strategy, Geopolitical Risk Assessment, Cross-Asset Correlation.
 - **Quant Finance:** Monte Carlo Simulations, Stochastic Risk Modeling, Maritime Logistics Optimization, Equity & Debt Analysis.
 - **Programming:** Python (Pandas, NumPy, Scikit-learn), JavaScript (React), SQL, Git.
 - **Platforms:** Bloomberg Terminal, Refinitiv, Microsoft Office Suite.
